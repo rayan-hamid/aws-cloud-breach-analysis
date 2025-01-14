@@ -1,3 +1,0 @@
-splunk-sdk
-boto3
-pandas
